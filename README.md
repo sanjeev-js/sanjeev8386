@@ -1,6 +1,14 @@
 ### Hi there 👋 I am Sanjeev Kumar
 
+### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjeev8386)
+
 [![My's github stats](https://github-readme-stats.vercel.app/api?username=sanjeev8386&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
