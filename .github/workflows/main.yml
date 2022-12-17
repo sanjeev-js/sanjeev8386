@@ -8,7 +8,7 @@ on:
         default: 'Warning'
   schedule:
     # Runs at 8am IST, every week Monday
-    - cron: '*/1 * * * *'
+    - cron: '0 8 * * MON'
 
 jobs:
   update-readme:
