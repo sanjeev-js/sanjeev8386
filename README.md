@@ -2,6 +2,9 @@
 
 [![My's github stats](https://github-readme-stats.vercel.app/api?username=sanjeev8386&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **sanjeev8386/sanjeev8386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
