@@ -18,7 +18,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev-unomok&" alt="sanjeev-unomok" /></p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sanjeev-unomok&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sanjeev8386&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2037%20mins-blue)
