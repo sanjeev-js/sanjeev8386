@@ -21,13 +21,13 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sanjeev8386&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2055%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 8 Contributions in the Year 2023
  > 
-> 📦 62.6 kB Used in GitHub's Storage 
+> 📦 62.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -62,13 +62,18 @@ Sunday       3 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.0%
+TypeScript               2 hrs 48 mins       █████████████████░░░░░░░░   71.41% 
+JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  3 hrs 51 mins       ████████████████████████░   97.94% 
+Browser                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06%
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+Linux                    3 hrs 55 mins       █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +90,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2023 10:46:34 UTC
+ Last Updated on 23/01/2023 02:54:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
